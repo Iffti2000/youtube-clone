@@ -11,6 +11,7 @@ import moon_icon from '../../assets/Moon.svg'
 import sun_icon from '../../assets/Sun.svg'
 import { Link, useNavigate } from 'react-router-dom'
 import { DarkModeContext } from '../../Context/DarkModeContext'
+import user_icon from '../../assets/user_icon.png'
 
 
 const Navbar = ({setSidebar}) => {
@@ -50,7 +51,7 @@ const Navbar = ({setSidebar}) => {
           onClick={() => setDarkMode(!darkMode)}
         ></i>
         <img src={notification_icon} alt="" />
-        <img src={profile_icon} className='user-icon' alt="" />
+        <img src={user_icon} className='user-icon' alt="" />
       </div>
     </nav>
   )

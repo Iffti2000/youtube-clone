@@ -14,6 +14,7 @@ import simon from '../../assets/simon.png'
 import tom from '../../assets/tom.png'
 import megan from '../../assets/megan.png'
 import cameron from '../../assets/cameron.png'
+import user_icon from '../../assets/user_icon.png'
 
 const Sidebar = ({sidebar,category,setCategory}) => {
   return (
@@ -51,19 +52,19 @@ const Sidebar = ({sidebar,category,setCategory}) => {
       <div className="subscribed-list">
         <h3>Subscribed</h3>
         <div className="side-link">
-          <img src={jack} alt="" /> <p>PewDiePie</p>
+          <img src={user_icon} alt="" /> <p>PewDiePie</p>
         </div>
         <div className="side-link">
-          <img src={simon} alt="" /> <p>MrBeast</p>
+          <img src={user_icon} alt="" /> <p>Athlean-X</p>
         </div>
         <div className="side-link">
-          <img src={tom} alt="" /> <p>Justin Bieber</p>
+          <img src={user_icon} alt="" /> <p>Justin Bieber</p>
         </div>
         <div className="side-link">
-          <img src={megan} alt="" /> <p>5-Minutes Craft</p>
+          <img src={user_icon} alt="" /> <p>5-Minutes Craft</p>
         </div>
         <div className="side-link">
-          <img src={cameron} alt="" /> <p>CarryMinati</p>
+          <img src={user_icon} alt="" /> <p>CarryMinati</p>
         </div>
       </div>
     </div>
