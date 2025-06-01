@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: #5a5a5a;
+}
+img{
+    cursor: pointer;
+}
+.flex-div{
+    display: flex;
+    align-items: center;    
+}
+
+body.dark {
+  background-color: #181818;
+  color: #fff;
+}
+
+body.dark nav {
+  background-color: #181818;
+}
+
+body.dark .search-box {
+  border: 1px solid #303030;
+}
+
+body.dark .search-box input {
+  color: white;
+}
+
+body.dark .card {
+  color: white;
+}
+
+body.dark .card h2 {
+  color: white;
+}

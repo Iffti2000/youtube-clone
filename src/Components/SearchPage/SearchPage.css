@@ -1,0 +1,38 @@
+.search-page{
+  margin-top: 20px;
+}
+
+.search-page h1{
+  font-weight: bold;
+  font-size: 40px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  margin-left: 350px;
+}
+
+.vid-list{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 8px;
+  margin-left: 90px;
+}
+.vid-list img{
+  width: 25%;
+  margin-right: 10px;
+}
+
+.vid-info h4{
+  font-size: 13px;
+  padding-bottom: 5px;
+}
+
+.vid-info h5{
+  margin-top: 10px;
+}
+
+@media (max-width:900px){
+  .recommended{
+      flex-basis: 100%;
+  }
+  
+}
