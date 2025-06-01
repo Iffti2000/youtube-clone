@@ -11,7 +11,10 @@ nav{
     margin-right: 25px;
 }
 .nav-left .logo{
-    width: 130px;
+    width: 70px;
+}
+.nav-left Link{
+    display: flex;
 }
 .nav-middle .search-box{
     border: 1px solid #ccc;
