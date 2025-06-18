@@ -1,8 +1,48 @@
-# React + Vite
+# YouTube Clone 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A frontend clone of YouTube, with search functionality and video display. Built using React and modern UI design principles.
 
-Currently, two official plugins are available:
+## Live Demo
+[Click Here to View](https://youtube-clone-eta-liard.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React
+- JavaScript
+- Youtube Data API
+
+## Features
+- Responsive design
+- Search bar with mock functionality
+- Video thumbnails and display
+- Modern layout inspired by YouTube
+
+## Screenshots
+
+### Intro
+![](Screenshots/Screenshot-1.png)
+
+### Landing Page
+![](Screenshots/Screenshot-2.png)
+
+### Landing Page in dark mode
+![](Screenshots/Screenshot-3.png)
+
+### Search Results Page
+![](Screenshots/Screenshot-4.png)
+
+### Search Results Page in dark mode
+![](Screenshots/Screenshot-5.png)
+
+### Video Player Page
+![](Screenshots/Screenshot-6.png)
+
+### Video Player Page in dark mode
+![](Screenshots/Screenshot-7.png)
+
+## Installation & Running Locally
+
+```bash
+git clone https://github.com/Iffti2000/youtube-clone.git
+cd youtube-clone
+npm install
+npm start
