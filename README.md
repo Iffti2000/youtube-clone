@@ -19,7 +19,7 @@ A frontend clone of YouTube, with search functionality and video display. Built 
 ## Screenshots
 
 ### Intro
-![](Screenshots/Screenshot-1.png)
+![](screenshots/Screenshot-1.png)
 
 ### Landing Page
 ![](Screenshots/Screenshot-2.png)
