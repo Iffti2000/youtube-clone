@@ -22,22 +22,22 @@ A frontend clone of YouTube, with search functionality and video display. Built 
 ![](screenshots/Screenshot-1.png)
 
 ### Landing Page
-![](Screenshots/Screenshot-2.png)
+![](screenshots/Screenshot-2.png)
 
 ### Landing Page in dark mode
-![](Screenshots/Screenshot-3.png)
+![](screenshots/Screenshot-3.png)
 
 ### Search Results Page
-![](Screenshots/Screenshot-4.png)
+![](screenshots/Screenshot-4.png)
 
 ### Search Results Page in dark mode
-![](Screenshots/Screenshot-5.png)
+![](screenshots/Screenshot-5.png)
 
 ### Video Player Page
-![](Screenshots/Screenshot-6.png)
+![](screenshots/Screenshot-6.png)
 
 ### Video Player Page in dark mode
-![](Screenshots/Screenshot-7.png)
+![](screenshots/Screenshot-7.png)
 
 ## Installation & Running Locally
 
