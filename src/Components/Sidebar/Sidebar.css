@@ -53,6 +53,15 @@
 }
 @media (max-width:900px){
     .sidebar {
+        display: block;
+    }
+    .sidebar p{
+        display: none;
+    }
+    .sidebar hr{
+        display: none;
+    }
+    .subscribed-list {
         display: none;
     }
 }

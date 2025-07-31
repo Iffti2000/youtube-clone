@@ -23,5 +23,15 @@
 }
 .card p{
     font-size: 14px;
-    
+}
+
+@media (max-width:900px){
+     .feed{
+        display: flex;
+        flex-direction: column;
+     }
+     .card{
+        margin: 0;
+     }
+
 }
