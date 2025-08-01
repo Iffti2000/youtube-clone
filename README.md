@@ -10,7 +10,7 @@ A frontend clone of YouTube, with search functionality and video display. Built 
 ## Tech Stack
 - React
 - JavaScript
-- Tailwind CSS
+- CSS
 - YouTube API
 
 ## Features
